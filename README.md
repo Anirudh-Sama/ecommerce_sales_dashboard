@@ -118,7 +118,7 @@ Ecommerce-Sales-Dashboard/
 > Add a screenshot of your dashboard below.
 
 
-[Dashboard Preview](ecommerce_sales_dasshboard.png)
+![Dashboard Preview](ecommerce_sales_dasshboard.png)
 
 
 ---
